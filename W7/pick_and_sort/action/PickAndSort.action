@@ -1,0 +1,8 @@
+# pick and sort action
+geometry_msgs/PoseStamped goal_pose
+---
+bool success
+string message
+---
+float32 progress
+
